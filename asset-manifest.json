@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACTPreEntrega2Romero/static/css/main.dd7524f2.css",
+    "main.js": "/REACTPreEntrega2Romero/static/js/main.709485c3.js",
+    "static/js/787.b0e29ad6.chunk.js": "/REACTPreEntrega2Romero/static/js/787.b0e29ad6.chunk.js",
+    "index.html": "/REACTPreEntrega2Romero/index.html",
+    "main.dd7524f2.css.map": "/REACTPreEntrega2Romero/static/css/main.dd7524f2.css.map",
+    "main.709485c3.js.map": "/REACTPreEntrega2Romero/static/js/main.709485c3.js.map",
+    "787.b0e29ad6.chunk.js.map": "/REACTPreEntrega2Romero/static/js/787.b0e29ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd7524f2.css",
+    "static/js/main.709485c3.js"
+  ]
+}
